@@ -14,9 +14,9 @@ Este repositório contém todos os projetos desenvolvidos durante o programa, on
 
 ## 📚 Conteúdo
 
-- [Semana 1](https://github.com/angelicapedroso/laboratorio-c-sharp/tree/main/semana-1)
-- [Semana 2](https://github.com/angelicapedroso/laboratorio-c-sharp/tree/main/semana-2)
-- [Semana 3](https://github.com/angelicapedroso/laboratorio-c-sharp/tree/main/semana-3)
+- [Semana 1 - Git e GitHub](https://github.com/angelicapedroso/laboratorio-c-sharp/tree/main/semana-1)
+- [Semana 2 - Explorando a linguagem](https://github.com/angelicapedroso/laboratorio-c-sharp/tree/main/semana-2)
+- [Semana 3 - Orientação a objetos](https://github.com/angelicapedroso/laboratorio-c-sharp/tree/main/semana-3)
 
 </br>
 
