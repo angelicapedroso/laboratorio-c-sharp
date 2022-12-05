@@ -1,4 +1,4 @@
-## Semana 2: Explorando a linguagem
+# Semana 2: Explorando a linguagem
 
 ## Exercícios de lógica
 
