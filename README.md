@@ -17,7 +17,8 @@ Este repositório contém todos os projetos desenvolvidos durante o programa, on
 - [Semana 1 - Git e GitHub](https://github.com/angelicapedroso/laboratorio-c-sharp/tree/semana-1)
 - [Semana 2 - Explorando a linguagem](https://github.com/angelicapedroso/laboratorio-c-sharp/tree/semana-2)
 - [Semana 3 - Orientação a objetos](https://github.com/angelicapedroso/laboratorio-c-sharp/tree/semana-3)
-- [Semana 4 - Herança, Interface e Polimorfismo](https://github.com/angelicapedroso/laboratorio-c-sharp/tree/semana-4)
+- [Semana 4 - Herança, interface e polimorfismo](https://github.com/angelicapedroso/laboratorio-c-sharp/tree/semana-4)
+- [Semana 5 - Entendendo exceções](https://github.com/angelicapedroso/laboratorio-c-sharp/tree/semana-5)
 
 </br>
 
