@@ -28,6 +28,5 @@ Este repositório contém todos as atividades desenvolvidos durante o programa, 
 
 ## 📧 Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-Angélica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelica-pedroso/)](https://www.linkedin.com/in/angelicapedroso/)
-
-![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatoangelicapedroso@gmail.com)
+<a href="https://www.linkedin.com/in/angelicapedroso/"><img src="https://img.shields.io/badge/-Angélica Pedroso-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a>
+<a href="mailto:contatoangelicapedroso@gmail.com"><img src="https://img.shields.io/badge/-contatoangelicapedroso@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
