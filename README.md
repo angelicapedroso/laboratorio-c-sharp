@@ -8,7 +8,7 @@ O programa é uma iniciativa da empresa [Wiz Co](https://wizsolucoes.com.br/), q
 
 ## ✍ Sobre o repositório
 
-Este repositório contém todos os projetos desenvolvidos durante o programa, onde estão organizados em branches por semana, e cada semana contém um arquivo README.md com a descrição do projeto.
+Este repositório contém todos as atividades desenvolvidos durante o programa, onde estão organizados em branches por semana, e cada semana contém um arquivo README.md com a descrição do projeto.
 
 </br>
 
